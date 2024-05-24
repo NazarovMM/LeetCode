@@ -4,6 +4,7 @@ This repository contains my solutions to various problems from [LeetCode](https:
 ## Easy
 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/9.py)
 13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/13.py)
+26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/26.py)
 66. [Plus One](https://leetcode.com/problems/plus-one) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/66.py)
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/69.py)
 
