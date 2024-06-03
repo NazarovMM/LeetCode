@@ -11,6 +11,8 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/69.py)
 136. [Single Number](https://leetcode.com/problems/single-number) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/136.py)
 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/217.py)
+258. [Add Digits](https://leetcode.com/problems/add-digits/) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/258.py)
+263. [Ugly Number](https://leetcode.com/problems/ugly-number/) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/263.py)
 344. [Reverse String](https://leetcode.com/problems/reverse-string) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/344.py)
 1108. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1108.py)
 2011. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2011.py)
