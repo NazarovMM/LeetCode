@@ -31,7 +31,26 @@ class Solution:
             return False
 
 
-s = "){"
-solution = Solution()
+class Solution1:
+    def isValid(self, s: str) -> bool:
+        buffer = []
+        for ch in s:
+            if ch in "({[":
+                buffer.append(ch)
+            else:
+                if buffer:
+                    last_ch = buffer.pop()
+                    if last_ch == "(" and ch == ")":
+                        continue
+                    if last_ch == "{" and ch == "}":
+                        continue
+                    if last_ch == "[" and ch == "]":
+                        continue
+                return False
+        return len(buffer) == 0
+
+
+s = "()"
+solution = Solution1()
 result = solution.isValid(s)
 print(result)
