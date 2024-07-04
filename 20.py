@@ -1,27 +1,37 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        krygl = 0
-        kvadr = 0
-        figur = 0
-        for i in s:
-            if i == "(":
-                krygl+=1
-            elif i ==")":
-                krygl-=1
-            elif i=="[":
-                kvadr+=1
-            elif i=="]":
-                kvadr-=1
-            elif i=="{":
-                figur+=1
+        buffer = []
+
+        for ch in s:
+            if ch == "(" or ch == "{" or ch == "[":
+                buffer.insert(0, ch)
             else:
-                figur-=1
-        if krygl == kvadr == figur == 0:
+                if buffer == []:
+                    return False
+                else:
+                    if ch == ")":
+                        if buffer[0] == "(":
+                            buffer.pop(0)
+                        else:
+                            return False
+                    elif ch == "}":
+                        if buffer[0] == "{":
+                            buffer.pop(0)
+                        else:
+                            return False
+                    elif ch == "]":
+                        if buffer[0] == "[":
+                            buffer.pop(0)
+                        else:
+                            return False
+
+        if buffer == []:
             return True
         else:
             return False
 
-s = "([)]"
+
+s = "){"
 solution = Solution()
 result = solution.isValid(s)
 print(result)
