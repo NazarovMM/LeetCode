@@ -17,8 +17,21 @@ class Solution:
         return pers
 
 
+class Solution2:
+    def passThePillow(self, n: int, time: int) -> int:
+        direction = 1
+        pers = 1
+        while time > 0:
+            pers += direction
+            if pers == n or pers == 1:
+                direction = direction*(-1)
+            time -= 1
+        return pers
+
+
+# переписать эффективнее
 n = 18
 time = 38
-solution = Solution()
+solution = Solution2()
 result = solution.passThePillow(n, time)
 print(result)
