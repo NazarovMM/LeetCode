@@ -105,3 +105,6 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 ## Pandas
 ## Easy
 175. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/175.py)
+
+## Medium
+176. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/176.py)
