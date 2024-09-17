@@ -100,3 +100,8 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 
 ## Hard
 502. [IPO](https://leetcode.com/problems/ipo) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/502.py)
+
+
+## Pandas
+## Easy
+175. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/175.py)
