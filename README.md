@@ -25,6 +25,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 263. [Ugly Number](https://leetcode.com/problems/ugly-number) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/263.py)
 278. [First Bad Version](https://leetcode.com/problems/first-bad-version) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/278.py)
 283. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/283.py)
+290. [Word Pattern](https://leetcode.com/problems/word-pattern/description) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/290.py)
 344. [Reverse String](https://leetcode.com/problems/reverse-string) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/344.py)
 350. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/350.py)
 412. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/412.py)
