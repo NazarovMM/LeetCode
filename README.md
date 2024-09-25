@@ -66,6 +66,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 2418. [Sort the People](https://leetcode.com/problems/sort-the-people) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2418.py)
 2535. [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2535.py)
 2582. [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2582.py)
+2759. [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2759.py)
 2788. [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2788.py)
 2798. [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2798.py)
 2942. [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2942.py)
@@ -107,6 +108,11 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 ## Pandas
 ## Easy
 175. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/175.py)
+2879. [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2879.py)
+2881. [Create a New Column](https://leetcode.com/problems/create-a-new-column/) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2881.py)
+2884. [Modify Columns](https://leetcode.com/problems/modify-columns) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2884.py)
+2888. [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2888.py)
+
 
 ## Medium
 176. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/176.py)
