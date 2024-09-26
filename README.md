@@ -108,10 +108,21 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 ## Pandas
 ## Easy
 175. [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/175.py)
+2877. [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2877.py)
+2878. [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2878.py)
 2879. [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2879.py)
+2880. [2880. Select Data](https://leetcode.com/problems/select-data/) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2880.py)
 2881. [Create a New Column](https://leetcode.com/problems/create-a-new-column/) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2881.py)
+2882. [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2882.py)
+2883. [Drop Missing Data](https://leetcode.com/problems/drop-missing-data) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2883.py)
 2884. [Modify Columns](https://leetcode.com/problems/modify-columns) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2884.py)
+2885. [Rename Columns](https://leetcode.com/problems/rename-columns) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2885.py)
+2886. [Change Data Type](https://leetcode.com/problems/change-data-type) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2886.py)
+2887. [Fill Missing Data](https://leetcode.com/problems/fill-missing-data) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2887.py)
 2888. [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2888.py)
+2889. [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2889.py)
+2890. [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2890.py)
+2891. [Method Chaining](https://leetcode.com/problems/method-chaining) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/2891.py)
 
 
 ## Medium
