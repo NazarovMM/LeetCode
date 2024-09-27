@@ -81,6 +81,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 8. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/8.py)
 11. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/11.py)
 12. [Integer to Roman](https://leetcode.com/problems/integer-to-roman) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/12.py)
+15. [3Sum](https://leetcode.com/problems/3sum) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/15.py)
 17. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/17.py)
 33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/33.py)
 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/36.py)
