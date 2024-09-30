@@ -128,3 +128,12 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 
 ## Medium
 176. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/176.py)
+
+
+## SQL
+## Easy
+584. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/584.sql)
+595. [Big Countries](https://leetcode.com/problems/big-countries) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/595.sql)
+1148. [Article Views I](https://leetcode.com/problems/article-views-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1148.sql)
+1683. [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1683.sql)
+1757. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1757.sql)
