@@ -133,6 +133,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 ## SQL
 ## Easy
 197. [Rising Temperature](https://leetcode.com/problems/rising-temperature) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/197.sql)
+577. [Employee Bonus](https://leetcode.com/problems/employee-bonus) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/577.sql)
 584. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/584.sql)
 595. [Big Countries](https://leetcode.com/problems/big-countries) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/595.sql)
 1068. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1068.sql)
