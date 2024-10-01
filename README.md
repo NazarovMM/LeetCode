@@ -137,6 +137,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 584. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/584.sql)
 595. [Big Countries](https://leetcode.com/problems/big-countries) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/595.sql)
 1068. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1068.sql)
+1280. [Students and Examinations](https://leetcode.com/problems/students-and-examinations) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1280.sql)
 1148. [Article Views I](https://leetcode.com/problems/article-views-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1148.sql)
 1378. [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1378.sql)
 1581. [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1661.sql)
