@@ -144,3 +144,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 1661. [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1661.sql)
 1683. [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1683.sql)
 1757. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1757.sql)
+
+
+## Medium
+570. [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/570.py)
