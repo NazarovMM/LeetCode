@@ -138,6 +138,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 595. [Big Countries](https://leetcode.com/problems/big-countries) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/595.sql)
 620. [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/620.sql)
 1068. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1068.sql)
+1251. [Average Selling Price](https://leetcode.com/problems/average-selling-price) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1251.sql)
 1280. [Students and Examinations](https://leetcode.com/problems/students-and-examinations) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1280.sql)
 1148. [Article Views I](https://leetcode.com/problems/article-views-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1148.sql)
 1378. [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1378.sql)
