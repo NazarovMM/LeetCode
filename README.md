@@ -136,6 +136,7 @@ This repository contains [my solutions](https://leetcode.com/u/maxzbox/) to vari
 577. [Employee Bonus](https://leetcode.com/problems/employee-bonus) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/577.sql)
 584. [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/584.sql)
 595. [Big Countries](https://leetcode.com/problems/big-countries) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/595.sql)
+620. [Not Boring Movies](https://leetcode.com/problems/not-boring-movies) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/620.sql)
 1068. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1068.sql)
 1280. [Students and Examinations](https://leetcode.com/problems/students-and-examinations) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1280.sql)
 1148. [Article Views I](https://leetcode.com/problems/article-views-i) - [Solution](https://github.com/NazarovMM/LeetCode/blob/main/1148.sql)
